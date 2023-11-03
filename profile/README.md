@@ -22,8 +22,8 @@ $ rm -rf [A 폴더]
 
 ## 🧟‍♀️fork repository에 commit도 내 잔디로 가져오자
 ### 1. fork
+![image](https://github.com/yalooWoowaPreCourse/.github/assets/81970382/0e22a3af-44ae-4d4a-99a2-499c707757d5)
 ![image](https://github.com/yalooWoowaPreCourse/.github/assets/81970382/36c9e2b4-1488-4edf-8fc4-be51573b16bc)
-
 - fork repository 이름은 알아서 .. 
 - fork repository를 생성해준다. 
 
