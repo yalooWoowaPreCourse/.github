@@ -22,8 +22,7 @@ $ rm -rf [A 폴더]
 
 ## 🧟‍♀️fork repository에 commit도 내 잔디로 가져오자
 ### 1. fork
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+![.github/profile/img_2.png](img_2.png)
 - fork repository 이름은 알아서 .. 
 - fork repository를 생성해준다. 
 
