@@ -22,7 +22,7 @@ $ rm -rf [A 폴더]
 
 ## 🧟‍♀️fork repository에 commit도 내 잔디로 가져오자
 ### 1. fork
-![.github/profile/img_2.png](img_2.png)
+<img src="img_2.png">
 - fork repository 이름은 알아서 .. 
 - fork repository를 생성해준다. 
 
@@ -33,7 +33,7 @@ $ rm -rf [A 폴더]
   - [DIR] 로컬에 복제할 위치를 지정합니다. 생략이 가능하며 특별한 이유가 없다면 보통 생략한다.
 
 #### 2-2. fork해온 repository HTTPS를 복사해줍니다.
-![img.png](img.png)
+<img src="img.png">
 
 #### 2-3. 명령어를 사용해서 fork한 레포지토리를 로컬 환경에 clone bare 해줍니다.
 ```
@@ -43,18 +43,20 @@ $ git clone --bare 여기에 복사한 주소를 넣어주세요
 [example]
 $ git clone --bare https://github.com/yeomyaloo/java-lotto-6.git
 ```
-![img_4.png](img_4.png)
+<img src="img_4.png">
+
 - 해당 명령어는 git bash를 사용해서 진행했기 때문에 있는 분들은 이렇게 진행하면 됩니다.
 > git bash가 아닌 명령어를 사용해서 진행한다면?<br> 
 > - 일단 Linux 명령어를 Windows 환경에서도 공통 사용하기 위해서 git bash를 사용하기 때문에 Windows 환경인 사람들은 다운 받아 사용하자 편리하다.<br>
 > - 그렇지 않은 경우라면 원격 환경(=깃허브에 있는 내 레포지토리)에 연결 해둔 로컬 파일(=내 컴퓨터에 있는 폴더)에 위치로 가서 명령어 터미널을 열어서 `cd 로컬_파일_주소`를 치고 위의 clone --bare 명령어 작업을 진행합니다!
 
 #### 2-4. git bash를 사용해 clone bare 작업
-![img_3.png](img_3.png)
+<img src="img_3.png">
 
 - 히스토리, 브랜치 정보만을 가지는 가벼운 복제본을 만들고 원격 저장소 백업, 공유 목적으로 사용된다.
 ### 3. 로컬 환경에 fork repository를 clone bare(얕은 복제)한 위치로 이동
-![img_5.png](img_5.png)
+<img src="img_5.png">
+
 ```
 cd java-lotto-6.git
 ```
@@ -62,7 +64,9 @@ cd java-lotto-6.git
 
 ### 4. Git Bare Repository
 #### 4-1. clone --bare 한 디렉토리로 이동
-![img_7.png](img_7.png)
+
+<img src="img_7.png">
+
 - bare Repository로 이동 후 브랜치가 BARE:main인 것을 확인할 수 있습니다.
 
 #### 4-2. push 할 나의 Repositorydp mirror 작업하기
