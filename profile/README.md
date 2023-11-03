@@ -34,7 +34,7 @@ $ rm -rf [A 폴더]
   - [DIR] 로컬에 복제할 위치를 지정합니다. 생략이 가능하며 특별한 이유가 없다면 보통 생략한다.
 
 #### 2-2. fork해온 repository HTTPS를 복사해줍니다.
-<img src="img.png">
+![image](https://github.com/yalooWoowaPreCourse/.github/assets/81970382/78b12c1d-316f-4101-93e5-f0cc98791104)
 
 #### 2-3. 명령어를 사용해서 fork한 레포지토리를 로컬 환경에 clone bare 해줍니다.
 ```
