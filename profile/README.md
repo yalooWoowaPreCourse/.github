@@ -75,4 +75,10 @@ $ git push --mirror https://github.com/userId/newRepo.git
 ```
 - 이제 java-lotto-6에 있는 자료를 newRepo에 저장합니다.
 
+## 주차별 과제
+### 1주차 - 야구 게임
+### 2주차 - 레이싱 
+### 3주차 - 로또
+
+
 
