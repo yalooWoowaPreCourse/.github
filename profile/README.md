@@ -74,6 +74,9 @@ cd java-lotto-6.git
 $ git push --mirror https://github.com/userId/newRepo.git
 ```
 - 이제 java-lotto-6에 있는 자료를 newRepo에 저장합니다.
+## 개인 레포에 복사가 아닌 경우?
+![image](https://github.com/yalooWoowaPreCourse/.github/assets/81970382/035a82af-419b-4f3a-a2b6-83bc804b16e5)
+
 
 ## 주차별 과제
 ### [1주차 - 야구 게임](https://github.com/yeomyaloo/java-baseball-6/tree/yeomyaloo)
