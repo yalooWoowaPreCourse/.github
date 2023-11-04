@@ -77,7 +77,7 @@ $ git push --mirror https://github.com/userId/newRepo.git
 
 ## 주차별 과제
 ### [1주차 - 야구 게임](https://github.com/yeomyaloo/java-baseball-6/tree/yeomyaloo)
-### [2주차 - 레이싱] (https://github.com/yeomyaloo/java-racingcar-6/tree/yeomyaloo)
+### [2주차 - 레이싱](https://github.com/yeomyaloo/java-racingcar-6/tree/yeomyaloo)
 ### [3주차 - 로또] ()
 
 
