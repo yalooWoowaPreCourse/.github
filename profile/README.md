@@ -7,7 +7,7 @@
 - A(포크_레포지토리)에 새로 커밋한 내용을 내 잔디로 옮기고 싶거나 B(나의_레포지토리)에 그대로 옮기고 싶을 경우엔 해당 작업을 다시 진행해주면 됩니다.
 
 ## 주차별 과제
-### [1주차 - 야구 게임]([https://github.com/yeomyaloo/java-baseball-6/tree/yeomyaloo)](https://github.com/yalooWoowaPreCourse/yaloo_java_baseball/tree/yeomyaloo)
+### [1주차 - 야구 게임](https://github.com/yalooWoowaPreCourse/yaloo_java_baseball/tree/yeomyaloo)
 ### [2주차 - 레이싱](https://github.com/yeomyaloo/java-racingcar-6/tree/yeomyaloo)
 ### [3주차 - 로또] ()
 
