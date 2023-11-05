@@ -8,8 +8,8 @@
 
 ## 주차별 과제
 ### [1주차 - 야구 게임](https://github.com/yalooWoowaPreCourse/yaloo_java_baseball/tree/yeomyaloo)
-### [2주차 - 레이싱](https://github.com/yeomyaloo/java-racingcar-6/tree/yeomyaloo)
-### [3주차 - 로또] ()
+### [2주차 - 레이싱](https://github.com/yalooWoowaPreCourse/yaloo_java_racingcar/tree/yeomyaloo)
+### [3주차 - 로또] (https://github.com/yalooWoowaPreCourse/yaloo_java_lotto/tree/yeomyaloo)
 
 
 
